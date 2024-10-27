@@ -10,11 +10,11 @@
 
 - 📫 How to reach me **snehamahajan056@gmail.com**
 
-- 📄 Know about my experiences [currently working as Associate manager](currently working as Associate manager)
+- 📄 My experiences [currently working as Associate manager](currently working as Associate manager)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sneha mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha mahajan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sneha-mahajan-82003722b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha mahajan" height="30" width="40" /></a>
 </p>
 
 ## GSSOC(24) Badges 🪶
