@@ -10,12 +10,17 @@
 
 - 📫 How to reach me **snehamahajan056@gmail.com**
 
-- 📄 My experiences [currently working as Associate manager](currently working as Associate manager)
+- 📄 My experiences (currently working as Associate manager)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sneha-mahajan-82003722b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha mahajan" height="30" width="40" /></a>
 </p>
+
+## Hacktoberfest(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <img src ="https://i.ibb.co/3kSmQqX/6799ea8b7a88.png"  width="100%" height="30%" />
+</div>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
