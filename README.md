@@ -11,7 +11,7 @@
 - 📫 How to reach me **snehamahajan056@gmail.com**
 
 - 📄 My experiences (Worked as Associate manager from June2024 - March-2025) 
-                    (Currently working as Software Engineer in Test)
+  and (Currently working as Software Engineer in Test)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
